@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+.tableDivStyle{
+ padding-top: 10px;
+}
+.tableColoumStyle{
+    text-align: center;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
